@@ -1,0 +1,23 @@
+.body{
+    position: absolute;
+}
+
+
+.green{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 450px;
+    top: 230px;
+    border-radius: 50%;
+
+}
+.red{
+    background-color: green;
+    width: 350px;
+    height: 200px;
+    position:absolute;
+    left: 350px;
+    top: 200px;
+}
